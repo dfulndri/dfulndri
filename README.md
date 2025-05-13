@@ -9,12 +9,6 @@
   <br/>
 
   <div align="center">
-  
-  🎓 A university student navigating the world of code
-  
-  🔍 Always curious, always up for a challenge, **except when I'm napping**
-
-  💡 Currently exploring new tech, breaking things, and occasionally fixing them
 
   ⚡ Fun fact: The best ideas come at 2 AM… right before **I fall asleep**
 
