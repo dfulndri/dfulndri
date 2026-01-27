@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFB22C&lines=Hello+Wanderer!+👋;Welcome+to+my+Cat-alog!+🐾;Defia+Here!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFB22C&lines=Hello+Wanderer!+👋;Defia+Here!" />
 
 <p align="center">
   <img src="./assets/cat.gif" width="250" alt="Funny Cat" />
@@ -18,7 +18,7 @@
 
 ---
 
-### About Me
+### ♐ About Me
 
 Curious mind. Collecting random ideas, strange details, and small experiments. Turning thoughts into code, notes, and sometimes controlled chaos.
 
