@@ -36,7 +36,7 @@
 
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/dfulndri/dfulndri/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="./assets/contribution_snake.gif" alt="Snake Animation" />
 </div>
 
 ---
