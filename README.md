@@ -18,12 +18,25 @@
 
 ---
 
-### 🐾 About Me
+### About Me
 
-- 🐈 **Obsession:** Kucing adalah prioritas utama, koding adalah hobi yang serius.
-- 🎓 **Status:** Mahasiswa aktif di **Universitas Esa Unggul**.
-- ⚡ **Fun Fact:** Ide paling brilian selalu muncul jam 2 pagi, tepat sebelum mata terpejam.
-- 🛠️ **Motto:** *"Keep calm and pet the cat while debugging."*
+Curious mind. Collecting random ideas, strange details, and small experiments. Turning thoughts into code, notes, and sometimes controlled chaos.
+
+---
+
+### 💌 Connect With Me
+
+<div align="center">
+  <a href="mailto:defiaulandari@student.esaunggul.ac.id">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/defia-ulandari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dfulndri" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -42,17 +55,3 @@
 </div>
 
 ---
-
-### 💌 Connect With Me
-
-<div align="center">
-  <a href="mailto:defiaulandari@student.esaunggul.ac.id">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/defia-ulandari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/dfulndri" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
