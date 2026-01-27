@@ -7,6 +7,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFB22C&lines=Hello+Wanderer!+👋;Welcome+to+my+Cat-alog!+🐾;Defia+Here!" />
 
 <p align="center">
+  <img src="./assets/cat.gif" width="250" alt="Funny Cat" />
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dfulndri.dfulndri" />
 </p>
 
@@ -15,8 +19,6 @@
 ---
 
 ### 🐾 About Me
-
-<img align="right" src="./assets/cat.gif" width="200" alt="Coding Cat" />
 
 - 🐈 **Obsession:** Kucing adalah prioritas utama, koding adalah hobi yang serius.
 - 🎓 **Status:** Mahasiswa aktif di **Universitas Esa Unggul**.
@@ -36,7 +38,7 @@
 
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
-  <img src="./assets/contribution_snake.gif" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/dfulndri/dfulndri/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -53,4 +55,4 @@
   <a href="https://www.instagram.com/dfulndri" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div># dfulndri
+</div>
